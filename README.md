@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router v6 where a catch-all route (`/*`) interferes with other routes, even when those routes should take precedence.  The issue arises when using nested routes or routes with dynamic segments. The solution provides a workaround to address this unexpected behavior.
